@@ -1,0 +1,2 @@
+DELETE FROM "user"
+	WHERE "number" = '09123012345';
